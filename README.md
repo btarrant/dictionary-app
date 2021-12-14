@@ -1,2 +1,2 @@
 # dictionary-app
-This is a dictionary website design showing JavaScrip skillset. 
+This is a dictionary website design showing JavaScript skillset. 
