@@ -52,3 +52,67 @@
 
 /* Definition */
 
+.def-box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    width: 600px;
+    height: 225px;
+    margin: 20px;
+}
+
+.def-box h1 {
+    font-size: 50px;
+    font-family: sans-serif;
+    font-weight: 500;
+    margin-bottom: 5px;
+    margin-top: 10px;
+}
+
+.def-box > p {
+    margin-left: 190px;
+    font-size: 24px;
+    text-align: left;
+    margin-top: -110px;
+}
+
+.def-box a {
+    color: #085394;
+}
+
+.noun {
+    margin-top: 5px;
+    margin-left: 55px;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: sans-serif;
+    font-style: italic;
+    margin-bottom: 12px;
+}
+
+
+.column {
+    margin-left: 30px;
+    margin-top: 20px;
+}
+
+.plural {
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.likes {
+    background-color: #ffd966;
+    border-style: solid;
+    border-color: black;
+    box-shadow: black 2px 3px;
+    border-width: 3px;
+    width: 110px;
+    height: 38px;
+    font-size: 19px;
+    font-family: sans-serif;
+    margin-left: 28px;
+    margin-top: 5px;
+}
