@@ -116,3 +116,33 @@
     margin-left: 28px;
     margin-top: 5px;
 }
+
+/* Add Definition */
+
+.alt-box {
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+    width: 360px;
+    height: 225px;
+    margin: 20px;
+}
+
+.alt-box h1 {
+    font-family: sans-serif;
+    font-weight: 500;
+    padding-left: 15px;
+    font-size: 40px;
+}
+
+.alt-box .btn {
+    margin-left: 15px;
+    background-color: #93c47d;
+    width: 280px;
+    height: 45px;
+    font-size: 25px;
+    font-family: sans-serif;
+    box-shadow: black 5px 5px;
+    border-color: black;
+    border-width: 4px;
+}
