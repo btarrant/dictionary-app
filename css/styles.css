@@ -18,3 +18,17 @@
     margin-top: 20px;
     align-content: center;
 }
+
+#searchbar {
+    margin: 40px;
+    width: 650px;
+}
+
+#searchbar > input {
+    width: 370px;
+    border-style: solid;
+    border-color: black;
+    border-width: 3px;
+    margin-left: 90px;
+    font-family: sans-serif;
+}
