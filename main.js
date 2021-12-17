@@ -8,3 +8,8 @@ btn.addEventListener("click", ()=>{
         btn.innerText= "Logout";
     }
 });
+
+function showAlert() {
+    var myText = "Ninja was liked!";
+    alert (myText);
+  }
