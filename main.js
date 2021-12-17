@@ -1,15 +1,18 @@
 const btn = document.getElementById("btn");
 
-btn.addEventListener("click", ()=>{
-
-    if(btn.innerText === "Login"){
-        btn.innerText = "Logout";
-    }else{
-        btn.innerText= "Login";
+function login(element) {
+    if(element.innerText == "Login") {
+        element.innerText = "Logout" ;
+    } else {
+        element.innerText = "Login" ;
     }
-});
+}
 
 function showAlert() {
     var myText = "Ninja was liked!";
     alert (myText);
-  }
+}
+
+function message() {
+    alert("Ninja was liked!");
+}
